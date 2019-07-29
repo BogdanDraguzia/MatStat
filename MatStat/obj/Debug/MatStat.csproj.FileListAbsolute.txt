@@ -1,0 +1,7 @@
+c:\users\dbodi\source\repos\MatStat\MatStat\bin\Debug\MatStat.exe.config
+c:\users\dbodi\source\repos\MatStat\MatStat\bin\Debug\MatStat.exe
+c:\users\dbodi\source\repos\MatStat\MatStat\bin\Debug\MatStat.pdb
+c:\users\dbodi\source\repos\MatStat\MatStat\obj\Debug\MatStat.csprojResolveAssemblyReference.cache
+c:\users\dbodi\source\repos\MatStat\MatStat\obj\Debug\MatStat.csproj.CoreCompileInputs.cache
+c:\users\dbodi\source\repos\MatStat\MatStat\obj\Debug\MatStat.exe
+c:\users\dbodi\source\repos\MatStat\MatStat\obj\Debug\MatStat.pdb
